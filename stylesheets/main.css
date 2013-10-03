@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica, Arial, Sans;
+  text-align:center;
+}
+
+#video_listing {
+  background-color: #fff;
+  padding: 10px;
+}
+
+table.video_table {
+  border: none;
+}
